@@ -84,15 +84,16 @@
     <section>
         <h2>Services offerts</h2>
         <ul class="services">
-            <li>Physique pour le secondaire</li>
-            <li>Chimie : cours de renforcement et approfondissement</li>
-            <li>Biologie et préparation aux examens</li>
+            <li>En ligne et en présentiel</li>
+            <li>Physique pour le secondaire, renforcement et approfondissement, juri central</li>
+            <li>Chimie : pour le secondaire, cours de renforcement et approfondissement juri central<</li>
+            <li>Biologie pour le secondaire et universitaire et préparation aux examens d'entrée en médicine e dentiterie, juri central<</li>
         </ul>
     </section>
 
     <section>
         <h2>Contactez-moi</h2>
-        <form action="mailto:jeronimofreitas@gmail.com" method="POST" enctype="text/plain">
+        <form action="mailto:coursdebio.be@gmail.com" method="POST" enctype="text/plain">
             <label for="name">Nom :</label>
             <input type="text" id="name" name="name" placeholder="Votre nom" required>
 
